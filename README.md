@@ -10,6 +10,8 @@ Repository of my notes from the JHU Biostatistics PhD first year curriculum.
 Generalized linear models, Newton-Raphson algorithm, overdispersion, quasi-likelihood, case-control studies
 ### Probability
 Laws of large numbers, central limit theorem, types of convergence, conditional expectations, characteristic functions
+### Theory
+Not sure what happened here. Something about influence functions?
 
 ## Term 4
 ### Methods 
