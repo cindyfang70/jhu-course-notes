@@ -1,6 +1,10 @@
 # jhu-course-notes
 Repository of my notes from the JHU Biostatistics PhD first year curriculum.
 
+## Term 1
+
+## Term 2
+
 ## Term 3
 ### Methods
 Generalized linear models, Newton-Raphson algorithm, overdispersion, quasi-likelihood, case-control studies
