@@ -13,3 +13,6 @@ Mixed effect models, expectation maximization, MCMC
 
 ### Probability
 Martingales, martingale convergence theorem, predictable processes, stopping times, branching processes, optional stopping theorem
+
+### Theory
+M-estimators, asymptotic properties of M-estimators
